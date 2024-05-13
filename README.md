@@ -1,4 +1,4 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/swxft/inspector-patch-it)](https://goreportcard.com/report/github.com/swxft/inspector-patch-it)
+[![Go Report Card](https://goreportcard.com/badge/github.com/swxft/inspector-patch-itt)](https://goreportcard.com/report/github.com/swxft/inspector-patch-itt)
 # Inspector Patch It
 >A Security Exploit Aggregator
 
