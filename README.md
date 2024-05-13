@@ -34,3 +34,15 @@ run the `main.go` script
 ```
 go run .
 ```
+### Requirements
+
+- [x] Builds, installs, and executes successfully
+- [ ] B or higher on Go Report Card
+- [x] Incorporates an external API or package
+- [x] Persists data in a file or databse
+- [x] README contains description
+- [x] README contains screenshot or install instructions
+- [x] README contains example of how to use this program
+- [ ] 2 or more table-driven tests
+- [ ] 1 or more benchmark tests
+- [ ] All tests pass
